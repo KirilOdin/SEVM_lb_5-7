@@ -1,0 +1,21 @@
+2026-11-16 21:39:28,062 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-16 21:41:24,992 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-16 21:43:27,028 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем TestUser!
+2026-11-16 21:43:27,029 - ClientLogger - INFO - Система: TestUser присоединился к чату!
+2026-11-16 21:43:32,228 - ClientLogger - INFO - Получено: TestUser|1212\
+2026-11-16 21:43:48,759 - ClientLogger - INFO - Получено: TestUser|фсфсф
+2026-11-16 21:44:22,925 - ClientLogger - INFO - Отключено от сервера.
+2026-11-16 21:52:05,251 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем kiril!
+2026-11-16 21:52:05,254 - ClientLogger - INFO - Система: kiril присоединился к чату!
+2026-11-16 21:52:11,984 - ClientLogger - INFO - Получено: kiril|rr
+2026-11-16 21:52:15,963 - ClientLogger - INFO - Отключено от сервера.
+2026-11-16 21:54:17,988 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем ivan!
+2026-11-16 21:54:17,989 - ClientLogger - INFO - Система: ivan присоединился к чату!
+2026-11-16 21:54:22,823 - ClientLogger - INFO - Получено: ivan|Hello World!
+2026-11-16 21:54:26,310 - ClientLogger - INFO - Отключено от сервера.
+2026-11-16 21:56:04,729 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем test_user!
+2026-11-16 21:56:04,731 - ClientLogger - INFO - Система: test_user присоединился к чату!
+2026-11-16 21:56:06,032 - ClientLogger - INFO - Получено: test_user|123
+2026-11-16 21:56:06,872 - ClientLogger - INFO - Получено: test_user|4444
+2026-11-16 21:56:07,625 - ClientLogger - INFO - Получено: test_user|224
+2026-11-16 21:56:17,743 - ClientLogger - INFO - Отключено от сервера.

@@ -1,0 +1,33 @@
+2026-11-16 20:40:38,455 - ServerLogger - INFO - Сервер запущен на адресе 0.0.0.0 : 12345
+2026-11-16 20:40:44,190 - ServerLogger - INFO - Сервер остановлен.
+2026-11-16 21:39:24,301 - ServerLogger - INFO - Сервер запущен на адресе 0.0.0.0 : 12345
+2026-11-16 21:41:31,998 - ServerLogger - INFO - Сервер остановлен.
+2026-11-16 21:43:25,084 - ServerLogger - INFO - Сервер запущен на адресе 0.0.0.0 : 12345
+2026-11-16 21:43:27,028 - ServerLogger - INFO - Обнаружен новый клиент с адресом ('127.0.0.1', 54452).
+2026-11-16 21:43:27,028 - ServerLogger - INFO - TestUser вошёл в чат!
+2026-11-16 21:43:32,227 - ServerLogger - INFO - [MESSAGE] TestUser : 1212\
+2026-11-16 21:43:48,758 - ServerLogger - INFO - [MESSAGE] TestUser : фсфсф
+2026-11-16 21:44:22,924 - ServerLogger - INFO - Сервер остановлен.
+2026-11-16 21:47:41,681 - ServerLogger - INFO - Сервер запущен на адресе 0.0.0.0 : 12345
+2026-11-16 21:51:10,617 - ServerLogger - INFO - Сервер остановлен.
+2026-11-16 21:51:57,884 - ServerLogger - INFO - Сервер запущен на адресе 0.0.0.0 : 12345
+2026-11-16 21:52:05,252 - ServerLogger - INFO - Обнаружен новый клиент с адресом ('127.0.0.1', 39174).
+2026-11-16 21:52:05,252 - ServerLogger - INFO - kiril вошёл в чат!
+2026-11-16 21:52:11,983 - ServerLogger - INFO - [MESSAGE] kiril : rr
+2026-11-16 21:52:15,981 - ServerLogger - INFO - Закрытие соединения.
+2026-11-16 21:52:15,981 - ServerLogger - INFO - Пользователь kiril отключился!
+2026-11-16 21:54:17,988 - ServerLogger - INFO - Обнаружен новый клиент с адресом ('127.0.0.1', 53516).
+2026-11-16 21:54:17,988 - ServerLogger - INFO - ivan вошёл в чат!
+2026-11-16 21:54:22,822 - ServerLogger - INFO - [MESSAGE] ivan : Hello World!
+2026-11-16 21:54:26,327 - ServerLogger - INFO - Закрытие соединения.
+2026-11-16 21:54:26,328 - ServerLogger - INFO - Пользователь ivan отключился!
+2026-11-16 21:54:34,682 - ServerLogger - INFO - Сервер остановлен.
+2026-11-16 21:55:51,192 - ServerLogger - INFO - Сервер запущен на адресе 0.0.0.0 : 12345
+2026-11-16 21:56:04,730 - ServerLogger - INFO - Обнаружен новый клиент с адресом ('127.0.0.1', 52644).
+2026-11-16 21:56:04,730 - ServerLogger - INFO - test_user вошёл в чат!
+2026-11-16 21:56:06,031 - ServerLogger - INFO - [MESSAGE] test_user : 123
+2026-11-16 21:56:06,871 - ServerLogger - INFO - [MESSAGE] test_user : 4444
+2026-11-16 21:56:07,625 - ServerLogger - INFO - [MESSAGE] test_user : 224
+2026-11-16 21:56:17,760 - ServerLogger - INFO - Закрытие соединения.
+2026-11-16 21:56:17,761 - ServerLogger - INFO - Пользователь test_user отключился!
+2026-11-16 21:56:23,279 - ServerLogger - INFO - Сервер остановлен.
