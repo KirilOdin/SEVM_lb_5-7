@@ -13,7 +13,7 @@ class ChatServer:
         self.host, self.port = load_server_config()
 
         # Создание и настройка логгера для сервера
-        self.logger = setup_logger("ServerLogger", "logs/server.log")
+        self.logger = setup_logger("ServerLogger", "logs/server.log", add_console=True)
 
         # Словарь для клиентов
         self.clients = {}

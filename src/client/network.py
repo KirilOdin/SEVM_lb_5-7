@@ -130,6 +130,9 @@ class ChatClient:
             # Дублирование сообщения для gui
             self._notify_gui("Отключено от сервера.")
 
+            if self.on_disconnected:
+                self.on_disconnected()
+
     def _notify_gui(self, text):
         """Отправка сообщений/уведомление в интерфейс (при его наличии)"""
         if self.on_message:
