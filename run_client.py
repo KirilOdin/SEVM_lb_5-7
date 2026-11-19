@@ -1,4 +1,4 @@
-from src.client.network import ChatClient
+from src.client import ChatClient
 from src.client.gui import ClientGUI
 import time
 import tkinter as tk

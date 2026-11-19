@@ -1,7 +1,6 @@
 import socket
 import threading
-from src.common.logger_setup import setup_logger
-from src.common.config_loader import load_server_config
+from src.common import setup_logger, load_server_config
 # from pathlib import Path
 
 # Корень проекта
@@ -30,10 +29,19 @@ class ChatServer:
         self.is_running = False
 
 
-    def start(self):
+    def start(self, host=None, port=None):
         """Запуск сервера через серверный сокет"""
+        if host:
+            self.host = host
+        if port:
+            self.port = int(port)
+
         # Сетевой сокет
         self.server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+
+        # ДОБАВИТЬ ЭТО:
+        self.server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 
         # Привязка сокета к IP и порту
         self.server_socket.bind((self.host, self.port))
@@ -78,9 +86,13 @@ class ChatServer:
         """Взаимодействие с клиентом, обработка входящих данных"""
         username = None
         try:
-            while True:
+            while self.is_running:
                 # Буфер данных, получаемых от клиента
                 data = client_socket.recv(1024)
+
+
+                if not self.is_running:
+                    break
 
                 # Отключение клиента в случае отсутствия данных
                 # TODO: Нужно что-то писать в логах?
@@ -183,8 +195,30 @@ class ChatServer:
         """Остановка работы сервера"""
         self.is_running = False
         if self.server_socket:
+            try:
+                self.server_socket.shutdown(socket.SHUT_RDWR)
+            except OSError:
+                pass
             self.server_socket.close()
+            self.server_socket = None
+
+        with self.lock:
+            for client_socket in list(self.clients.keys()):
+                try:
+                    client_socket.shutdown(socket.SHUT_RDWR)
+                    client_socket.close()
+                except Exception:
+                    pass
+                try:
+                    client_socket.close()
+                except Exception:
+                    pass
+
+            self.clients.clear()
 
         self.logger.info("Сервер остановлен.")
         # Дублирование сообщения для gui
         self._notify_gui("Сервер остановлен.")
+
+        if self.on_user_update:
+            self.on_user_update("clear", "")

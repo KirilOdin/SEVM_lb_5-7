@@ -15,7 +15,6 @@ class ChatClient:
         self.logger = setup_logger("ClientLogger","logs/client.log")
 
         # Колбэки для GUI
-        # TODO: реализовать GUI клиента
         self.on_message = on_message
         self.on_connected = on_connected
         self.on_disconnected = on_disconnected
@@ -114,9 +113,6 @@ class ChatClient:
 
     def disconnect(self):
         """Отключение от сервера"""
-        if not self.is_running:
-            return
-
         self.is_running = False
         if self.client_socket:
             try:
@@ -124,6 +120,9 @@ class ChatClient:
             except Exception as e:
                 self.logger.info(f"Ошибка при закрытии сокета: {e}")
                 pass
+
+            finally:
+                self.client_socket = None
 
             self.logger.info("Отключено от сервера.")
 
@@ -137,3 +136,8 @@ class ChatClient:
         """Отправка сообщений/уведомление в интерфейс (при его наличии)"""
         if self.on_message:
             self.on_message(text)
+
+
+    def is_connected(self):
+        """Возвращает True, если соединение активно"""
+        return self.is_running and self.client_socket is not None

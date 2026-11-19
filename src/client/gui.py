@@ -1,7 +1,8 @@
 import tkinter as tk
 from tkinter import ttk
 import threading
-from src.client.network import ChatClient
+from src.client import ChatClient
+
 
 class ClientGUI:
     def __init__(self):
@@ -107,7 +108,7 @@ class ClientGUI:
             if success:
                 self.message_entry.delete(0, tk.END)
             else:
-                self.message_entry.delete(tk.END, "[ОШИБКА] Не удалось отправить сообщение.")
+                self.message_entry.insert(tk.END, "[ОШИБКА] Не удалось отправить сообщение.")
 
 
     def update_messages(self, text):
