@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import ttk
 import threading
+
+from src.common.config_loader import save_client_username
 from src.client import ChatClient
 
 
@@ -37,19 +39,19 @@ class ClientGUI:
         ttk.Label(connection_frame, text="IP-адрес:").grid(row=0, column=0, padx=5, pady=5)
         self.ip_entry = ttk.Entry(connection_frame, width=15)
         self.ip_entry.grid(row=0, column=1, padx=5, pady=5)
-        self.ip_entry.insert(0, "127.0.0.1")
+        self.ip_entry.insert(0, self.client.host)
         self.ip_entry.grid(row=0, column=1, padx=5, pady=5)
 
         # Порт
         ttk.Label(connection_frame, text="Порт:").grid(row=0, column=2, padx=5, pady=5)
         self.port_entry = ttk.Entry(connection_frame, width=10)
-        self.port_entry.insert(0, "12345")
+        self.port_entry.insert(0, self.client.port)
         self.port_entry.grid(row=0, column=3, padx=5, pady=5)
 
         # Логин
         ttk.Label(connection_frame, text="Логин:").grid(row=0, column=4, padx=5, pady=5)
         self.login_entry = ttk.Entry(connection_frame, width=20)
-        self.login_entry.insert(0, "Александр Астафьев")
+        self.login_entry.insert(0, self.client.username)
         self.login_entry.grid(row=0, column=5, padx=5, pady=5)
 
         # Кнопка подключения
@@ -67,6 +69,22 @@ class ClientGUI:
         # Область для сообщений пользователей
         self.messages_area = tk.Listbox(messages_frame, font=("Arial", 10))
         self.messages_area.pack(fill=tk.BOTH, expand=True)
+
+
+        # ========== Панель задач (индивидуальный вариант) ==========
+        task_frame = ttk.LabelFrame(self.root, text="Задание: Найти сумму и наименьший делитель", padding=10)
+        task_frame.pack(fill=tk.X, padx=10, pady=5)
+
+        ttk.Label(task_frame, text="Числа (через запятую):").pack(side=tk.LEFT)
+        self.task_entry = ttk.Entry(task_frame, width=40)
+        self.task_entry.pack(side=tk.LEFT, padx=5)
+        self.task_entry.insert(0, "4,6,8") # Значение для примера
+        self.task_entry.config(state="disabled")
+
+        self.task_button = ttk.Button(task_frame, text="Выполнить", command=self.send_task)
+        self.task_button.pack(side=tk.LEFT, padx=5)
+        self.task_button.config(state="disabled") # Пока нет подключения - выключено
+
 
         # ========== Нижняя панель (Отправка) ==========
         send_frame = ttk.Frame(self.root, padding=10)
@@ -90,6 +108,8 @@ class ClientGUI:
         if not username:
             self.messages_area.insert(tk.END, "[ОШИБКА] Введите логин!")
             return
+
+        save_client_username(username)
 
         self.connect_button.config(state="disabled")
         self.messages_area.insert(tk.END, "Подключение к серверу...")
@@ -121,6 +141,8 @@ class ClientGUI:
             self.login_entry.config(state="disabled")
             self.ip_entry.config(state="disabled")
             self.port_entry.config(state="disabled")
+            self.task_button.config(state="normal")
+            self.task_entry.config(state="normal")
             self.message_entry.focus()
         self.root.after(0, _update)
 
@@ -132,7 +154,26 @@ class ClientGUI:
             self.ip_entry.config(state="normal")
             self.port_entry.config(state="normal")
             self.connect_button.config(state="normal")
+            self.task_button.config(state="disabled")
+            self.task_entry.config(state="disabled")
         self.root.after(0, _update)
+
+    def send_task(self):
+        """Отправка данных на сервер для выполнения задачи"""
+        data = self.task_entry.get().strip()
+        if not data:
+            self.messages_area.insert(tk.END, "[ОШИБКА] Введите числа для задачи!")
+            return
+
+        # Вызываем метод из network.py
+        success = self.client.send_task("TASK6", data)
+
+        if success:
+            # Отображаем в чате, что мы отправили
+            self.messages_area.insert(tk.END, f"Вы отправили задачу: TASK6|{data}")
+            self.messages_area.see(tk.END)  # Прокрутка вниз
+        else:
+            self.messages_area.insert(tk.END, "[ОШИБКА] Не удалось отправить задачу.")
 
     def on_closing(self):
         self.client.disconnect()

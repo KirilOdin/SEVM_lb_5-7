@@ -6,7 +6,7 @@ from src.common.config_loader import load_client_config
 class ChatClient:
     def __init__(self, on_message=None, on_connected=None, on_disconnected=None):
         # Конфиги клиента по умолчанию из файла
-        self.host, self.port = load_client_config()
+        self.host, self.port, self.username = load_client_config()
 
         # TODO: Оставить файл лога один для "всех клиентов" или
         #  спрашивать логин, который будет "хэшироваться"
@@ -136,6 +136,18 @@ class ChatClient:
         """Отправка сообщений/уведомление в интерфейс (при его наличии)"""
         if self.on_message:
             self.on_message(text)
+
+    def send_task(self, command, data_string):
+        """Отправка команды на сервер (например, TASK1|данные)"""
+        if not self.is_running or not self.client_socket:
+            return False
+        try:
+            message = f"{command}|{data_string}"
+            self.client_socket.sendall(message.encode())
+            return True
+        except Exception as e:
+            self.logger.error(f"Ошибка при отправке задачи: {e}")
+            return False
 
 
     def is_connected(self):

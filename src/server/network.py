@@ -1,6 +1,7 @@
 import socket
 import threading
 from src.common import setup_logger, load_server_config
+from src.server.tasks import TaskExecutor
 # from pathlib import Path
 
 # Корень проекта
@@ -20,7 +21,6 @@ class ChatServer:
         self.lock = threading.Lock()
 
         # Колбэки для GUI
-        # TODO: реализовать GUI сервера
         self.on_message = on_message
         self.on_user_update = on_user_update
 
@@ -54,7 +54,6 @@ class ChatServer:
         self.logger.info(start_msg)
 
         # Дублирование сообщения для gui
-        # TODO: Колбеки и GUI
         self._notify_gui(start_msg)
 
         # Прослушивание сокета на "постоянной" основе
@@ -127,8 +126,7 @@ class ChatServer:
                     # Дублирование сообщения для gui
                     self._notify_gui(login_msg)
 
-                    # Обновление списка клиентов через Callback в GUI (если имеется)
-                    # TODO: Реализовать метод обновления списка клиентов в GUI
+                    # Обновление списка клиентов через Callback в GUI
                     if self.on_user_update:
                         self.on_user_update("add", username)
 
@@ -144,6 +142,18 @@ class ChatServer:
                     self._notify_gui(f"[MESSAGE] {username} : {text}")
 
                     self.broadcast(f"{username}|{text}")
+
+                elif command.startswith("TASK"):
+                    self.logger.info(f"Задача от клиента {username}: {command}")
+
+                    ans = TaskExecutor.execute(command, value)
+
+                    try:
+                        client_socket.sendall(f"SERVER|Результат: {ans}".encode())
+
+                    except Exception as e:
+                        self.logger.error(f"Не удалось отправить результат: {e}")
+
 
         except Exception as e:
             self.logger.error(f"Ошибка при работе с клиентом {address} : {e}")

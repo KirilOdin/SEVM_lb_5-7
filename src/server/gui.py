@@ -32,13 +32,13 @@ class ServerGUI:
         # IP адрес
         ttk.Label(connection_frame, text="IP-адрес:").grid(row=0, column=0, padx=5, pady=5)
         self.ip_entry = ttk.Entry(connection_frame, width=20)
-        self.ip_entry.insert(0, "0.0.0.0")
+        self.ip_entry.insert(0, self.server.host)
         self.ip_entry.grid(row=0, column=1, padx=5, pady=5)
 
         # Порт
         ttk.Label(connection_frame, text="Порт:").grid(row=0, column=2, padx=5, pady=5)
         self.port_entry = ttk.Entry(connection_frame, width=15)
-        self.port_entry.insert(0, "12345")
+        self.port_entry.insert(0, self.server.port)
         self.port_entry.grid(row=0, column=3, padx=5, pady=5)
 
         # Кнопки
