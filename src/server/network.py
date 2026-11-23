@@ -118,6 +118,16 @@ class ChatServer:
 
                     # Блокировка потока для внесения изменений в словарь клиентов
                     with self.lock:
+                        old_sockets = [sock for sock, name in self.clients.items() if name == username]
+
+                        for old_sock in old_sockets:
+                            try:
+                                old_sock.close()
+                            except Exception:
+                                pass
+                            del self.clients[old_sock]
+                            self.logger.info(f"Принудительно закрыта старая сессия пользователя {username}")
+
                         self.clients[client_socket] = username
 
                     login_msg = f"{username} вошёл в чат!"
@@ -169,9 +179,11 @@ class ChatServer:
         with self.lock:
             if client_socket in self.clients:
                 del self.clients[client_socket]
+
+            is_still_connected = username in self.clients.values()
         client_socket.close()
 
-        if username:
+        if username and not is_still_connected:
             self.logger.info(f"Пользователь {username} отключился!")
 
             # Дублирование сообщения для gui
@@ -191,6 +203,8 @@ class ChatServer:
                     client.sendall(message.encode())
                 except Exception as e:
                     self.logger.info(f"Принудительное отключение клиентского сокета: {e}")
+                    if client in self.clients:
+                        del self.clients[client]
                     # Отключаем клиентский сокет при неудачной отправке сообщения
                     client.close()
 

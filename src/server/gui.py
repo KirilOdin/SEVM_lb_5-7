@@ -1,5 +1,6 @@
 import threading
 from src.server.network import ChatServer
+from src.server.discovery import ServerDiscovery
 import tkinter as tk
 from tkinter import ttk
 
@@ -14,6 +15,8 @@ class ServerGUI:
         self.root.geometry("1000x600")
 
         self.root.protocol("WM_DELETE_WINDOW", self.on_closing)
+
+        self.discovery = ServerDiscovery(on_message=self.update_message)
 
         # Создание сервера
         self.server = ChatServer(
@@ -86,10 +89,15 @@ class ServerGUI:
         thread.daemon = True
         thread.start()
 
+        thread_udp = threading.Thread(target=self.discovery.start, args=(ip, port))
+        thread_udp.daemon = True
+        thread_udp.start()
+
 
     def stop_server(self):
         """Остановка сервера"""
         self.server.stop()
+        self.discovery.stop()
 
         self.start_button.config(state="normal")
         self.stop_button.config(state="disabled")
@@ -127,6 +135,7 @@ class ServerGUI:
     def on_closing(self):
         """Отключение сервера"""
         self.server.stop()
+        self.discovery.stop()
         self.root.destroy()
 
 

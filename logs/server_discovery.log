@@ -1,0 +1,156 @@
+2026-11-23 14:57:59,322 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 14:58:03,823 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 14:58:32,513 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 14:58:35,988 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 14:58:38,803 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 14:58:50,273 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 14:58:56,600 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 14:59:02,829 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 15:24:39,309 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 15:27:40,352 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 15:27:41,974 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 47157)
+2026-11-23 15:27:43,357 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 34028)
+2026-11-23 15:27:43,702 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 57585)
+2026-11-23 15:27:51,473 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 45945)
+2026-11-23 15:27:54,453 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 57095)
+2026-11-23 15:28:06,470 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 35847)
+2026-11-23 15:28:09,051 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 49067)
+2026-11-23 15:28:09,377 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 51193)
+2026-11-23 15:28:42,470 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 33447)
+2026-11-23 15:28:43,685 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 49888)
+2026-11-23 15:28:50,764 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 42648)
+2026-11-23 15:28:52,240 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 60563)
+2026-11-23 15:28:52,920 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 39382)
+2026-11-23 15:28:54,093 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 37694)
+2026-11-23 15:28:54,980 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 49881)
+2026-11-23 15:29:26,768 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 15:29:33,671 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 15:30:16,153 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 15:31:50,228 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 15:36:39,957 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 53747)
+2026-11-23 15:36:41,913 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 33036)
+2026-11-23 15:36:44,867 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 36045)
+2026-11-23 15:36:45,745 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 56601)
+2026-11-23 15:36:49,802 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 53555)
+2026-11-23 15:36:53,840 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 57614)
+2026-11-23 15:36:55,664 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 45162)
+2026-11-23 15:36:58,804 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 47454)
+2026-11-23 15:37:00,003 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 52772)
+2026-11-23 15:37:00,252 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 45196)
+2026-11-23 15:37:00,383 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 50449)
+2026-11-23 15:37:00,525 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 43842)
+2026-11-23 15:37:00,603 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 37191)
+2026-11-23 15:37:00,697 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 45963)
+2026-11-23 15:37:00,765 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 54459)
+2026-11-23 15:37:00,848 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 43277)
+2026-11-23 15:37:00,966 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 33208)
+2026-11-23 15:37:01,060 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 57864)
+2026-11-23 15:37:01,133 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 49730)
+2026-11-23 15:37:01,225 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 42749)
+2026-11-23 15:37:02,870 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 33534)
+2026-11-23 15:39:02,457 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 15:39:50,040 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 15:39:54,438 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 47075)
+2026-11-23 15:40:05,352 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 60593)
+2026-11-23 15:40:07,273 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 33052)
+2026-11-23 15:40:13,919 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 56639)
+2026-11-23 15:40:35,219 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 15:40:39,920 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 15:40:40,898 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 45953)
+2026-11-23 15:40:41,042 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 49593)
+2026-11-23 15:40:41,231 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 51314)
+2026-11-23 15:40:41,394 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 58698)
+2026-11-23 15:40:43,213 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 45712)
+2026-11-23 15:40:52,824 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 15:40:53,572 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 18:44:03,014 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 18:46:01,987 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 18:46:05,964 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 18:46:07,357 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 18:46:08,407 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 33946)
+2026-11-23 18:46:13,957 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 60096)
+2026-11-23 18:47:32,480 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 60425)
+2026-11-23 18:47:34,492 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 49512)
+2026-11-23 18:47:35,253 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 52701)
+2026-11-23 18:47:47,718 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 44443)
+2026-11-23 18:47:49,763 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 47854)
+2026-11-23 18:47:51,852 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 55855)
+2026-11-23 18:48:55,338 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 35992)
+2026-11-23 18:50:09,893 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 18:50:17,784 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 18:56:33,508 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 18:56:34,751 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 42095)
+2026-11-23 19:01:53,999 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:01:54,733 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 41126)
+2026-11-23 19:02:01,355 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:02:14,805 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:02:16,085 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 56094)
+2026-11-23 19:12:38,381 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:12:49,638 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 35136)
+2026-11-23 19:12:49,638 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 35136)
+2026-11-23 19:12:54,846 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:12:55,529 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:13:01,689 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:13:02,986 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:13:08,076 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 60744)
+2026-11-23 19:13:08,076 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 60744)
+2026-11-23 19:13:15,887 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:13:17,652 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 50117)
+2026-11-23 19:13:21,463 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:13:30,118 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:13:30,693 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:13:41,912 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12346
+2026-11-23 19:13:43,305 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:14:11,347 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 49538)
+2026-11-23 19:14:19,346 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 55605)
+2026-11-23 19:14:29,147 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:14:42,563 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:14:43,747 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12346
+2026-11-23 19:14:58,897 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:15:17,569 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:15:52,009 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:15:53,069 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 56577)
+2026-11-23 19:15:54,164 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 48884)
+2026-11-23 19:16:32,125 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 58194)
+2026-11-23 19:17:47,572 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 41769)
+2026-11-23 19:22:39,710 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 50700)
+2026-11-23 19:24:42,035 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 53119)
+2026-11-23 19:24:45,550 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 57958)
+2026-11-23 19:24:59,735 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 54830)
+2026-11-23 19:25:08,656 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 40722)
+2026-11-23 19:25:28,437 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 48283)
+2026-11-23 19:25:32,528 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:25:43,474 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:25:45,086 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 54342)
+2026-11-23 19:25:45,711 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 59285)
+2026-11-23 19:25:47,405 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 38528)
+2026-11-23 19:25:49,495 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 58469)
+2026-11-23 19:26:37,526 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:26:49,581 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:27:00,331 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:38:17,436 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:38:18,488 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 38022)
+2026-11-23 19:38:19,984 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 45148)
+2026-11-23 19:38:25,902 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 44903)
+2026-11-23 19:38:26,081 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 48279)
+2026-11-23 19:38:32,801 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 58000)
+2026-11-23 19:38:33,305 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 48355)
+2026-11-23 19:38:50,229 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:42:52,088 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:42:52,791 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 54674)
+2026-11-23 19:46:08,417 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:46:20,655 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:46:21,988 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:47:07,020 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:48:04,526 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:48:05,547 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:49:03,500 - ServerDiscoveryLogger - INFO - Слушатель обнаружения запущен на адресе 0.0.0.0 : 12345
+2026-11-23 19:49:05,723 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 57121)
+2026-11-23 19:49:06,487 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 50277)
+2026-11-23 19:49:07,264 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 41915)
+2026-11-23 19:55:16,451 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 55591)
+2026-11-23 19:55:30,697 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 39849)
+2026-11-23 19:57:21,213 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.0.1', 55984)
+2026-11-23 19:57:44,324 - ServerDiscoveryLogger - INFO - Получен DISCOVER от ('127.0.1.1', 51073)
+2026-11-23 19:59:40,970 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.
+2026-11-23 19:59:42,368 - ServerDiscoveryLogger - INFO - UDP-слушатель остановлен.

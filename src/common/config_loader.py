@@ -67,4 +67,57 @@ def load_server_config():
     else:
         config.read(config_path)
 
-    return config["Default Settings"]["server_ip"], int(config["Default Settings"]["server_port"])
+    host = config["Default Settings"]["server_ip"]
+    port = int(config["Default Settings"]["server_port"])
+
+    return host, port
+
+
+def load_client_discovery_config():
+    config = configparser.ConfigParser()
+
+    # config_path = "config/client_config.ini"
+    config_path = BASE_DIR / "config" / "client_config.ini"
+
+    if not os.path.exists(config_path):
+        config["Default UDP Settings"] = {
+            'server_port': '12345',
+            'discovery_timeout': '3',
+            'username': 'Александр Астафьев'
+        }
+        config_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(config_path, 'w') as configfile:
+            config.write(configfile)
+    else:
+        config.read(config_path)
+
+    port = int(config["Default UDP Settings"]["server_port"])
+    timeout = int(config["Default UDP Settings"].get("discovery_timeout", "3"))
+    username = config["Default UDP Settings"].get("username", "Новый пользователь")
+
+    return port, timeout, username
+
+
+def load_server_discovery_config():
+    config = configparser.ConfigParser()
+
+    # config_path = "config/server_config.ini"
+    config_path = BASE_DIR / "config" / "server_config.ini"
+
+    if not os.path.exists(config_path):
+        config["Default UDP Settings"] = {
+            'server_ip': '0.0.0.0',
+            'server_port': '12345',
+            'discovery_timeout': '3'
+        }
+        config_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(config_path, 'w') as configfile:
+            config.write(configfile)
+    else:
+        config.read(config_path)
+
+    host = config["Default UDP Settings"]["server_ip"]
+    port = int(config["Default UDP Settings"]["server_port"])
+    timeout = int(config["Default UDP Settings"].get("discovery_timeout", "3"))
+    return host, port, timeout
+

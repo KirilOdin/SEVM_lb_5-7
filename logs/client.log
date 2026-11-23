@@ -299,3 +299,1402 @@
 2026-11-20 16:51:28,805 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
 2026-11-20 16:51:36,270 - ClientLogger - INFO - Система: Результат: Сумма = 15. Наименьший делитель = 3.
 2026-11-20 16:51:40,099 - ClientLogger - INFO - Отключено от сервера.
+2026-11-20 18:00:02,927 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-20 18:00:02,932 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-20 18:00:43,756 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-20 18:01:17,701 - ClientLogger - INFO - Система: Результат: Сумма = 10. Наименьший делитель = 2.
+2026-11-20 18:01:50,077 - ClientLogger - INFO - Получено: Outrodox|Hello World!
+2026-11-20 18:02:51,012 - ClientLogger - INFO - Система: Результат: [Ошибка]! Введите числа через запятую (4,6,8)!
+2026-11-20 18:03:13,249 - ClientLogger - INFO - Отключено от сервера.
+2026-11-20 18:04:17,693 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-20 18:04:17,697 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-20 18:04:50,316 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-20 18:04:50,317 - ClientLogger - INFO - Отключено от сервера.
+2026-11-20 18:05:14,567 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-20 18:05:14,569 - ClientLogger - INFO - Отключено от сервера.
+2026-11-20 18:05:20,866 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-20 18:05:20,868 - ClientLogger - INFO - Отключено от сервера.
+2026-11-20 18:05:21,231 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-20 18:05:21,233 - ClientLogger - INFO - Отключено от сервера.
+2026-11-20 18:05:37,138 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-20 18:05:37,145 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-20 18:06:15,971 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 15:22:57,061 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-23 15:22:57,062 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 15:27:45,678 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 15:27:45,682 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 15:27:47,712 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 15:27:49,452 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 15:28:39,553 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 15:29:26,767 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 15:29:26,768 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 15:29:34,584 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 15:29:34,589 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 15:29:38,605 - ClientLogger - INFO - Система: Результат: Сумма = 6. Наименьший делитель = 2.
+2026-11-23 15:29:58,928 - ClientLogger - INFO - Получено: Outrodox|wrwrw
+2026-11-23 15:29:59,070 - ClientLogger - INFO - Получено: Outrodox|r
+2026-11-23 15:29:59,221 - ClientLogger - INFO - Получено: Outrodox|rwr
+2026-11-23 15:29:59,371 - ClientLogger - INFO - Получено: Outrodox|wr
+2026-11-23 15:29:59,525 - ClientLogger - INFO - Получено: Outrodox|wr
+2026-11-23 15:29:59,676 - ClientLogger - INFO - Получено: Outrodox|wr
+2026-11-23 15:29:59,802 - ClientLogger - INFO - Получено: Outrodox|wr
+2026-11-23 15:29:59,939 - ClientLogger - INFO - Получено: Outrodox|r
+2026-11-23 15:30:03,937 - ClientLogger - INFO - Система: Результат: Сумма = 6. Наименьший делитель = 2.
+2026-11-23 15:30:16,152 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 15:30:16,153 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 15:31:46,055 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-23 15:31:46,056 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 15:31:51,936 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 15:31:51,940 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 15:39:01,174 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 15:40:07,992 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 15:40:07,997 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 15:40:09,801 - ClientLogger - INFO - Получено: Outrodox|dsddsd
+2026-11-23 15:40:10,485 - ClientLogger - INFO - Получено: Outrodox|dsd
+2026-11-23 15:40:12,001 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 15:40:35,218 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 15:40:35,218 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 15:40:36,573 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-23 15:40:36,575 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 15:40:46,031 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 15:40:46,037 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 15:40:52,080 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 18:46:03,855 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 18:46:03,860 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 18:46:05,963 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 18:46:05,963 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:01:58,793 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:01:58,798 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:02:01,355 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:02:01,355 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:02:11,441 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-23 19:02:11,443 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:13:10,761 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:13:10,767 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:13:29,047 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:14:24,084 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:14:24,091 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:14:29,146 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:14:29,146 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:14:30,938 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-23 19:14:30,942 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:14:35,598 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-23 19:14:35,600 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:15:57,933 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:15:57,942 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:15:58,877 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:15:58,880 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:15:58,880 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:17:13,739 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:17:13,744 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:17:13,744 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:17:13,744 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:21:20,701 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 19:21:21,489 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 19:22:02,575 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:02,579 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:02,579 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:02,580 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:02,580 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:02,590 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:02,590 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:02,595 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:07,826 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:07,833 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:07,833 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:07,833 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:07,833 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:09,449 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:09,459 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:09,459 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:09,459 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:09,459 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:09,459 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:09,472 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:09,472 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:09,473 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:09,473 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:09,482 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:09,482 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:09,482 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:11,368 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:11,373 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:11,373 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:11,373 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:11,373 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:12,425 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:12,436 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:12,436 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:12,436 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:12,436 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:12,436 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:13,532 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:13,546 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:13,546 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:13,547 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:13,547 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:13,547 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:13,547 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:13,557 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,557 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,557 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,557 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,558 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,570 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,570 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,570 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,571 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,577 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,577 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:13,577 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:14,809 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:14,821 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:14,822 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:14,822 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:14,822 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,466 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:15,476 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,476 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,476 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,477 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,477 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,850 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:15,855 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,855 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,856 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,856 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,856 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,856 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:15,867 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:15,867 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:15,868 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:15,868 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:15,868 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:16,849 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:16,854 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:16,854 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:16,854 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:16,855 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:16,854 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:16,855 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:16,869 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:16,870 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:16,870 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:16,870 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:16,870 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:18,006 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:18,019 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:18,019 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:18,020 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:18,020 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:18,020 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:18,020 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:18,033 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:18,033 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:18,033 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:18,033 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:18,034 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:19,113 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:19,122 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:19,122 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:19,122 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:19,122 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:19,122 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:19,123 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,488 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:20,502 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,502 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,502 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,502 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,503 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,503 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,503 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,516 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,516 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,516 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,516 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,516 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,516 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,942 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:20,953 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,953 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,953 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,953 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,954 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,954 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,954 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:20,962 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,962 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,962 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,963 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,963 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,963 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,975 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,975 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,975 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,975 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,976 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,984 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,984 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,984 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:20,984 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,113 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:21,127 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,127 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,127 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,127 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,127 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,245 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:21,251 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,251 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,251 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,251 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,251 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,252 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,409 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:21,414 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,413 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,414 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,414 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,414 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,415 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,415 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,843 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:21,850 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,850 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,850 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,850 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,850 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,850 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,850 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,850 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:21,862 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,862 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,862 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,863 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,863 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,863 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,863 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,863 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,863 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,863 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,863 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,864 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,874 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,874 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,874 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,874 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,874 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:21,991 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:22,002 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,002 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,002 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,002 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,002 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,002 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,015 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,016 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,016 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,016 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,016 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,143 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:22,153 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,153 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,153 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,153 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,153 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,154 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,317 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:22,322 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,322 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,322 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,322 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,322 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,322 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,322 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,334 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,334 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,334 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,334 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,334 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,334 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,651 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:22,664 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,664 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,664 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,664 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,665 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,665 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,665 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,807 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:22,809 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,809 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,809 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,809 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,809 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,809 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,809 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,812 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:22,823 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,823 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,823 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,823 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,823 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,823 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,823 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,836 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,836 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,836 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,836 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,837 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:22,837 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,176 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:23,188 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,188 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,188 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,188 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,189 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,189 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,189 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,486 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:23,497 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,497 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,498 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,498 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,498 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,498 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,498 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,499 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,499 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,499 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,499 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,500 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,500 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,500 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,500 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,634 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:23,647 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,647 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,647 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,647 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,648 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,647 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,648 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,648 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,658 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,658 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,658 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,658 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,659 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,658 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,659 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,666 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,666 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,666 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,666 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,666 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,666 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,676 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,676 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,676 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,676 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,676 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:23,789 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:23,799 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,799 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,799 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,799 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,799 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,799 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,964 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:23,970 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,970 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,970 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,970 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,970 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,970 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:23,971 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:28,306 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:28,318 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:28,318 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:28,319 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:28,319 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:28,319 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:28,319 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:28,319 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:28,319 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:30,734 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:30,749 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:30,749 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:30,749 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:30,749 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:30,749 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:30,749 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:30,749 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:30,749 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:30,749 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,181 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:31,193 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,193 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,194 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,194 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,194 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,194 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,194 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,195 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,195 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,194 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:31,205 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,205 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,205 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,205 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,205 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,205 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,205 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,205 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,205 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,215 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,215 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,215 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,215 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,215 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,215 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,215 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,215 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,215 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,216 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,216 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,216 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,216 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,225 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,225 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,225 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,226 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,226 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,228 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,234 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,234 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,234 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,234 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:31,234 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:37,334 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:22:37,335 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:37,335 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:37,335 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:37,335 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:37,335 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:37,339 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:22:37,358 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:37,358 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:37,358 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:37,358 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:37,358 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:44,459 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:22:44,469 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:22:44,470 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:22:44,470 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:22:44,469 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:22:44,470 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:22:44,470 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:22:44,485 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:22:44,486 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:22:44,486 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:22:44,486 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:22:44,487 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:22:50,048 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:22:50,057 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:22:50,058 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:22:50,058 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:22:50,058 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:22:50,058 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:22:50,058 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:22:50,069 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:22:50,070 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:22:50,070 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:22:50,070 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:22:50,070 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:50,070 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:50,070 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:22:50,071 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:23:40,373 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:23:40,383 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:40,384 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:40,384 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:40,384 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:40,384 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:41,472 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:23:41,486 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:41,486 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:41,486 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:41,486 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:41,486 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:41,487 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:23:41,499 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:23:41,499 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:23:41,499 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:23:41,499 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:23:41,499 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:23:41,508 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:23:41,509 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:23:41,509 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:23:41,509 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:05,029 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:24:05,035 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:05,035 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:05,035 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:05,035 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:05,035 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:06,019 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:24:06,033 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:06,033 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:06,033 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:06,033 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:06,033 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:06,034 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:06,043 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:06,043 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:06,043 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:06,043 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:06,044 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:06,055 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:06,056 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:06,056 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:06,056 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:07,321 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:07,330 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:07,331 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:07,331 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:07,331 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:07,331 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,031 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:08,039 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,039 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,039 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,039 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,039 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,039 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,629 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:08,632 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,632 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,632 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,633 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,633 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,633 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:08,636 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,301 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:09,306 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,306 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,306 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,306 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,306 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,307 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,307 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,307 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,320 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,321 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,321 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,321 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,321 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,321 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,321 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,961 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:09,966 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,967 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,967 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,967 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,968 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,968 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,968 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,968 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:09,986 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,986 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,986 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,987 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,987 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,987 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:09,987 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:10,839 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:10,844 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:10,844 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:10,845 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:10,845 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:10,845 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:10,845 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:10,845 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:10,845 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:10,858 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:10,858 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:10,858 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:10,858 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:10,859 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:10,859 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:10,859 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:11,515 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:11,524 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:11,524 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:11,524 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:11,524 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:11,524 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:11,524 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:11,524 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:11,524 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,482 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:12,490 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,490 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,490 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,491 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,491 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,491 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,491 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,491 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,491 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:12,501 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:12,501 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:12,501 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:12,502 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:12,502 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:12,502 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:12,502 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:12,502 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,156 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:13,164 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,164 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,164 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,165 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,165 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,165 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,165 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,165 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,165 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,317 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,329 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,752 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:13,759 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,759 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,759 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,759 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,759 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,760 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,760 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,760 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,760 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,761 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,761 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,774 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,774 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,774 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,774 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,775 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,775 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,775 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,775 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,775 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,775 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,782 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,782 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,782 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,783 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,783 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,783 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,783 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,783 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,783 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,791 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,791 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,791 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,791 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,791 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,792 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,792 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,792 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,900 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:13,905 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,905 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,906 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,906 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,906 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,907 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,907 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,907 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,907 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:13,918 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,918 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,918 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,918 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,919 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,919 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,921 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,920 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,930 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,930 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,930 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,931 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,931 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,931 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:13,931 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,083 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:14,089 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,089 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,089 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,090 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,090 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,090 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,090 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,091 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,103 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,103 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,104 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,104 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,104 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,104 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,109 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,109 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,110 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,110 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,110 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,110 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,115 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,115 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,116 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,116 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,115 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:14,246 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:14,254 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,254 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,254 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,255 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,256 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,254 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,417 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:14,430 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,430 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,430 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,430 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,430 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,431 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,431 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,580 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:14,591 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,591 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,591 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,591 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,591 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,591 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,592 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,592 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,883 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:14,892 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,892 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,892 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,892 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,892 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,892 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,892 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,892 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:14,892 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,178 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:15,189 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,189 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,189 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,189 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,189 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,190 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,190 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,190 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,190 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,189 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,200 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,200 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,200 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,200 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,200 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,201 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,201 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,201 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,201 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,329 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:15,341 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,341 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,341 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,341 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,342 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,341 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,341 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,341 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,342 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,342 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:15,350 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,350 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,350 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,351 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,351 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,351 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,351 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,351 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:15,352 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:16,496 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:24:16,501 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,501 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,501 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,501 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,502 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,501 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,503 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,502 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,502 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,502 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:16,521 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:16,521 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:16,521 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:16,521 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:16,521 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:16,521 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:16,522 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:16,522 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:16,522 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,209 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:19,221 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,221 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,221 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,221 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,221 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,221 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,221 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,221 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,222 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,222 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:19,238 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,238 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,238 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,238 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,238 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,238 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,239 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,239 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,238 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,251 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,251 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,252 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,252 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,252 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,252 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,253 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,253 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:19,253 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:19,253 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:19,254 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:19,254 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:19,254 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:19,254 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:19,264 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:19,264 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:19,265 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:19,265 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:19,265 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:19,265 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,265 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,265 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,266 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:19,266 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:21,159 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:24:21,171 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:21,172 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:21,172 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:21,172 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:21,172 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:21,172 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:22,379 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:22,394 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,395 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,394 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,395 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,395 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,395 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,395 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,544 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:22,555 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,556 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,556 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,556 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,556 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,556 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,556 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,556 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,722 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:22,730 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,731 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,731 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,731 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,732 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,732 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,732 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,732 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,732 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,733 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:22,734 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:22,734 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:22,734 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:22,734 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:22,734 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:22,734 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,735 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,735 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,735 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,735 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,736 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:22,736 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:22,736 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:24:22,737 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,738 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,738 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,739 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,739 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,739 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:22,739 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:22,739 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:22,739 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:22,909 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:22,911 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,911 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,911 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:22,915 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,246 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:23,250 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,250 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,250 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,250 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,251 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,511 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:23,520 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,520 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,520 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,521 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,521 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,521 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,532 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:23,532 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:23,532 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:23,532 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:23,533 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:23,837 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:23,847 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,847 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,848 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,848 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,848 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,848 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:23,857 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:23,857 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:23,857 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:23,857 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:23,857 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:24,120 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:24,125 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:24,126 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:24,126 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:24,126 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:24,126 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:24,126 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:25,548 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:24:25,563 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:25,563 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:25,564 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:25,564 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:25,564 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:25,564 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:25,564 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:24:25,584 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:25,584 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:25,584 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:25,584 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:25,584 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:25,585 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:26,707 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:26,717 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:26,717 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:26,717 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:26,718 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:26,718 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:26,717 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:26,720 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:26,736 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:26,737 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:26,737 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:26,738 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:26,738 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:26,738 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:28,917 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:24:28,935 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:28,935 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:28,935 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:28,935 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:28,936 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:28,936 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:28,936 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:24:28,946 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:28,948 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:28,948 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:28,948 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:28,948 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:28,948 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:24:28,961 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:28,961 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:28,962 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:28,962 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:28,962 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:24:32,060 - ClientLogger - INFO - Получено: Hostage|ииси
+2026-11-23 19:24:32,061 - ClientLogger - INFO - Получено: Hostage|ииси
+2026-11-23 19:24:32,061 - ClientLogger - INFO - Получено: Hostage|ииси
+2026-11-23 19:24:32,061 - ClientLogger - INFO - Получено: Hostage|ииси
+2026-11-23 19:24:32,061 - ClientLogger - INFO - Получено: Hostage|ииси
+2026-11-23 19:24:35,649 - ClientLogger - INFO - Получено: Ataraxis|тб
+2026-11-23 19:24:35,649 - ClientLogger - INFO - Получено: Ataraxis|тб
+2026-11-23 19:24:35,649 - ClientLogger - INFO - Получено: Ataraxis|тб
+2026-11-23 19:24:35,649 - ClientLogger - INFO - Получено: Ataraxis|тб
+2026-11-23 19:24:35,650 - ClientLogger - INFO - Получено: Ataraxis|тб
+2026-11-23 19:24:40,745 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:24:40,747 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:40,747 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:40,747 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:40,747 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:40,747 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:40,748 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:24:43,991 - ClientLogger - INFO - Получено: Outrodox|ттт
+2026-11-23 19:24:43,991 - ClientLogger - INFO - Получено: Outrodox|ттт
+2026-11-23 19:24:43,991 - ClientLogger - INFO - Получено: Outrodox|ттт
+2026-11-23 19:24:43,992 - ClientLogger - INFO - Получено: Outrodox|ттт
+2026-11-23 19:24:43,992 - ClientLogger - INFO - Получено: Outrodox|ттт
+2026-11-23 19:24:43,992 - ClientLogger - INFO - Получено: Outrodox|ттт
+2026-11-23 19:25:03,728 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:25:03,737 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:25:03,737 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:25:03,737 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:25:03,738 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:25:03,738 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:25:03,738 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:25:03,738 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:25:16,364 - ClientLogger - INFO - Получено: Ataraxis|птпт
+2026-11-23 19:25:16,364 - ClientLogger - INFO - Получено: Ataraxis|птпт
+2026-11-23 19:25:16,364 - ClientLogger - INFO - Получено: Ataraxis|птпт
+2026-11-23 19:25:16,364 - ClientLogger - INFO - Получено: Ataraxis|птпт
+2026-11-23 19:25:16,364 - ClientLogger - INFO - Получено: Ataraxis|птпт
+2026-11-23 19:25:16,364 - ClientLogger - INFO - Получено: Ataraxis|птпт
+2026-11-23 19:25:16,364 - ClientLogger - INFO - Получено: Ataraxis|птпт
+2026-11-23 19:25:17,820 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:17,820 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:17,820 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:17,821 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:17,821 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:17,821 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:17,821 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,118 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,118 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,118 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,118 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,118 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,118 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,119 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,302 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,302 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,302 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,302 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,302 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,302 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,302 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,313 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:25:18,313 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:25:18,314 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:25:18,314 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:25:18,314 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:25:18,314 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:25:18,326 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:25:18,326 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:25:18,326 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:25:18,327 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:25:18,327 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:25:18,340 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:25:18,340 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:25:18,340 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:25:18,340 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:25:18,481 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,482 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,482 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,482 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,678 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,678 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,678 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,678 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,846 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,846 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,846 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:18,846 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:19,164 - ClientLogger - INFO - Получено: Ataraxis|оо
+2026-11-23 19:25:19,164 - ClientLogger - INFO - Получено: Ataraxis|оо
+2026-11-23 19:25:19,165 - ClientLogger - INFO - Получено: Ataraxis|оо
+2026-11-23 19:25:19,165 - ClientLogger - INFO - Получено: Ataraxis|оо
+2026-11-23 19:25:19,489 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:19,489 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:19,489 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:19,489 - ClientLogger - INFO - Получено: Ataraxis|о
+2026-11-23 19:25:29,916 - ClientLogger - INFO - Получено: Outrodox|ооо
+2026-11-23 19:25:29,917 - ClientLogger - INFO - Получено: Outrodox|ооо
+2026-11-23 19:25:29,917 - ClientLogger - INFO - Получено: Outrodox|ооо
+2026-11-23 19:25:29,917 - ClientLogger - INFO - Получено: Outrodox|ооо
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,527 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,528 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,529 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,529 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,529 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,529 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:32,529 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:25:32,529 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:25:48,896 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:25:48,905 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:25:50,827 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:25:50,833 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:25:50,833 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:25:52,735 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:25:52,740 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:25:52,740 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:25:52,741 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:26:02,334 - ClientLogger - INFO - Получено: Ataraxis|оьрьрь
+2026-11-23 19:26:02,334 - ClientLogger - INFO - Получено: Ataraxis|оьрьрь
+2026-11-23 19:26:02,334 - ClientLogger - INFO - Получено: Ataraxis|оьрьрь
+2026-11-23 19:26:12,343 - ClientLogger - INFO - Получено: Outrodox|123456
+2026-11-23 19:26:12,343 - ClientLogger - INFO - Получено: Outrodox|123456
+2026-11-23 19:26:12,343 - ClientLogger - INFO - Получено: Outrodox|123456
+2026-11-23 19:26:15,493 - ClientLogger - INFO - Получено: Hostage|13123131
+2026-11-23 19:26:15,493 - ClientLogger - INFO - Получено: Hostage|13123131
+2026-11-23 19:26:15,493 - ClientLogger - INFO - Получено: Hostage|13123131
+2026-11-23 19:26:19,782 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:26:19,783 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:26:19,783 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:26:19,783 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:26:19,789 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:26:19,796 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:26:19,796 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:26:19,796 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:26:23,908 - ClientLogger - INFO - Получено: Hostage|укук
+2026-11-23 19:26:23,908 - ClientLogger - INFO - Получено: Hostage|укук
+2026-11-23 19:26:23,908 - ClientLogger - INFO - Получено: Hostage|укук
+2026-11-23 19:26:26,369 - ClientLogger - INFO - Получено: Outrodox|3434
+2026-11-23 19:26:26,369 - ClientLogger - INFO - Получено: Outrodox|3434
+2026-11-23 19:26:26,369 - ClientLogger - INFO - Получено: Outrodox|3434
+2026-11-23 19:26:29,782 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:26:29,787 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:26:29,787 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:26:29,787 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:26:29,788 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:26:29,800 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:26:29,800 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:26:29,801 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:26:31,922 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:26:31,928 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:26:31,928 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:26:31,928 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:26:31,929 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:26:31,944 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:26:31,944 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:26:31,945 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:26:37,525 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:26:37,525 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:26:37,525 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:26:37,525 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:26:37,525 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:26:37,525 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:26:37,525 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:26:37,526 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:26:37,526 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:26:37,526 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:26:48,725 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-23 19:26:48,727 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:26:51,348 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:26:51,354 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:26:54,168 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:26:54,175 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:26:54,175 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:26:54,186 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:26:55,939 - ClientLogger - INFO - Получено: Hostage|рнрн
+2026-11-23 19:26:58,330 - ClientLogger - INFO - Получено: Hostage|ллл
+2026-11-23 19:26:59,204 - ClientLogger - INFO - Получено: Hostage|ллл
+2026-11-23 19:27:00,331 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:27:00,331 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:27:00,331 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:38:24,019 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:38:24,027 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:38:34,796 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 19:38:34,936 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 19:38:36,035 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 19:38:44,181 - ClientLogger - INFO - Получено: Hostage|1233
+2026-11-23 19:38:50,228 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:38:50,229 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:42:44,096 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-23 19:42:44,098 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:42:56,652 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:42:56,659 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:42:58,174 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:42:58,726 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:42:58,729 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:42:59,191 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:42:59,646 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:42:59,654 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:42:59,987 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:43:00,307 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:43:00,312 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:43:00,601 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:43:01,014 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:43:01,025 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:43:01,370 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:43:02,105 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:43:02,113 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:43:04,143 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:46:10,888 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:46:10,893 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:46:12,599 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:46:14,399 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:46:14,407 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:46:20,654 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:46:20,655 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:46:22,017 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:47:04,842 - ClientLogger - ERROR - Не удалось установить соединение: [Errno 111] Connection refused
+2026-11-23 19:47:04,844 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:47:07,793 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:47:07,795 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:47:11,300 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:47:11,307 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:47:11,307 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:47:15,072 - ClientLogger - INFO - Получено: Hostage|dadadadada
+2026-11-23 19:47:15,072 - ClientLogger - INFO - Получено: Hostage|dadadadada
+2026-11-23 19:47:16,861 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:47:19,449 - ClientLogger - INFO - Получено: Outrodox|adadad
+2026-11-23 19:47:19,449 - ClientLogger - INFO - Получено: Outrodox|adadad
+2026-11-23 19:47:19,460 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:47:32,855 - ClientLogger - INFO - Получено: Outrodox|ssdsd
+2026-11-23 19:47:33,973 - ClientLogger - INFO - Получено: Outrodox|dsdsd
+2026-11-23 19:47:37,221 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:47:37,226 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:47:37,226 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:47:39,132 - ClientLogger - INFO - Получено: Hostage|dsds
+2026-11-23 19:47:39,132 - ClientLogger - INFO - Получено: Hostage|dsds
+2026-11-23 19:47:41,286 - ClientLogger - INFO - Получено: Outrodox|sds
+2026-11-23 19:47:41,286 - ClientLogger - INFO - Получено: Outrodox|sds
+2026-11-23 19:47:42,300 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:47:44,571 - ClientLogger - INFO - Получено: Hostage|fg
+2026-11-23 19:47:44,571 - ClientLogger - INFO - Получено: Hostage|fg
+2026-11-23 19:47:44,578 - ClientLogger - INFO - Система: Outrodox покинул чат
+2026-11-23 19:47:47,855 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:47:47,860 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:47:47,860 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:47:51,156 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:47:53,374 - ClientLogger - INFO - Получено: Outrodox|efff
+2026-11-23 19:47:53,374 - ClientLogger - INFO - Получено: Outrodox|efff
+2026-11-23 19:47:53,392 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:48:02,203 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:49:08,618 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Ataraxis!
+2026-11-23 19:49:08,624 - ClientLogger - INFO - Система: Ataraxis присоединился к чату!
+2026-11-23 19:49:10,168 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Outrodox!
+2026-11-23 19:49:10,173 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:49:10,173 - ClientLogger - INFO - Система: Outrodox присоединился к чату!
+2026-11-23 19:49:12,137 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:49:12,145 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:49:12,145 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:49:12,145 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:50:13,879 - ClientLogger - INFO - Система: Результат: Сумма = 18. Наименьший делитель = 2.
+2026-11-23 19:55:27,797 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:55:29,914 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:55:34,460 - ClientLogger - INFO - Получено: Outrodox|123
+2026-11-23 19:55:34,460 - ClientLogger - INFO - Получено: Outrodox|123
+2026-11-23 19:55:34,460 - ClientLogger - INFO - Получено: Outrodox|123
+2026-11-23 19:55:34,470 - ClientLogger - INFO - Система: Ataraxis покинул чат
+2026-11-23 19:55:34,474 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:55:48,255 - ClientLogger - INFO - Получено: Outrodox|1221
+2026-11-23 19:55:50,647 - ClientLogger - INFO - Получено: Outrodox|122122
+2026-11-23 19:57:33,344 - ClientLogger - INFO - Успешное подключение к серверу 127.0.0.1:12345 под именем Hostage!
+2026-11-23 19:57:33,346 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:57:33,351 - ClientLogger - INFO - Система: Hostage присоединился к чату!
+2026-11-23 19:57:34,423 - ClientLogger - INFO - Отключено от сервера.
+2026-11-23 19:57:39,301 - ClientLogger - INFO - Получено: Outrodox|вывы
+2026-11-23 19:57:39,301 - ClientLogger - INFO - Получено: Outrodox|вывы
+2026-11-23 19:57:39,311 - ClientLogger - INFO - Система: Hostage покинул чат
+2026-11-23 19:59:40,969 - ClientLogger - INFO - Сервер разорвал соединение.
+2026-11-23 19:59:40,969 - ClientLogger - INFO - Отключено от сервера.

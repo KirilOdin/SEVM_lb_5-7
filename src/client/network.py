@@ -25,6 +25,13 @@ class ChatClient:
 
     def connect(self, username):
         """Подключение к серверу"""
+
+        # Если имеется активное подключение
+        if self.is_running:
+            self.logger.warning("Попытка подключиться, когда уже есть активное соединение.")
+            self._notify_gui("Попытка подключиться, когда уже есть активное соединение.")
+            return
+
         # Сетевой сокет
         self.client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 

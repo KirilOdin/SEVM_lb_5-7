@@ -1,0 +1,202 @@
+2026-11-23 15:27:37,511 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:27:41,975 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:27:41,975 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:27:43,357 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:27:43,357 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:27:43,702 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:27:43,702 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:27:51,472 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:27:51,474 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:27:54,452 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:27:54,453 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:06,468 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:06,471 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:09,051 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:09,051 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:09,377 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:09,377 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:42,470 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:42,470 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:43,685 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:43,685 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:50,763 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:50,764 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:52,240 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:52,240 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:52,920 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:52,920 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:54,093 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:54,093 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:28:54,980 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:28:54,980 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:36:39,957 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:36:39,958 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:36:41,913 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:36:41,914 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:36:44,867 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:36:44,867 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:36:45,745 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:36:45,745 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:36:49,802 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:36:49,802 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:36:53,840 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:36:53,840 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:36:55,664 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:36:55,664 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:36:58,804 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:36:58,804 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:00,003 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:00,003 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:00,252 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:00,252 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:00,383 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:00,384 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:00,525 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:00,525 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:00,603 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:00,603 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:00,697 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:00,697 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:00,765 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:00,766 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:00,848 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:00,848 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:00,965 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:00,966 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:01,060 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:01,060 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:01,133 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:01,134 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:01,225 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:01,226 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:37:02,870 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:37:02,870 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:39:43,780 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:39:43,822 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:39:54,438 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:39:54,438 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:40:05,352 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:05,352 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:40:07,273 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:07,273 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:40:13,919 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:13,919 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:40:37,800 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:38,440 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:38,588 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:38,747 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:38,890 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:40,898 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:40,898 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:40:41,042 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:41,042 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:40:41,231 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:41,231 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:40:41,394 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:41,394 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 15:40:43,213 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 15:40:43,214 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 (Сумма и наименьший делитель)
+2026-11-23 18:46:08,407 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:46:08,407 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 18:46:13,956 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:46:13,957 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 18:47:32,480 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:47:32,481 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 18:47:34,492 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:47:34,492 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 18:47:35,253 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:47:35,253 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 18:47:47,718 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:47:47,718 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 18:47:49,763 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:47:49,763 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 18:47:51,852 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:47:51,852 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 18:48:55,338 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:48:55,338 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 18:50:10,821 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:54:31,231 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:56:34,751 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 18:56:34,751 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:01:54,733 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:01:54,734 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:02:06,879 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:02:16,085 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:02:16,085 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:12:49,638 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:12:49,639 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:13:08,076 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:13:08,077 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:13:17,652 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:13:17,658 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:14:11,347 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:14:11,347 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:14:19,346 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:14:19,346 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:14:37,420 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:14:47,878 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:14:52,841 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:15:46,153 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:15:46,704 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:15:48,541 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:15:53,069 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:15:53,069 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:15:54,164 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:15:54,164 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:16:32,125 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:16:32,125 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:17:47,572 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:17:47,573 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:22:39,709 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:22:39,710 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:24:42,035 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:24:42,035 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:24:45,550 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:24:45,551 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:24:59,735 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:24:59,736 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:25:08,656 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:25:08,657 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:25:28,437 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:25:28,437 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:25:34,071 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:25:36,297 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:25:37,524 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:25:45,086 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:25:45,086 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:25:45,711 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:25:45,711 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:25:47,405 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:25:47,405 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:25:49,495 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:25:49,495 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:38:16,640 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:38:18,488 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:38:18,488 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:38:19,984 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:38:19,984 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:38:25,902 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:38:25,903 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:38:26,081 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:38:26,082 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:38:32,800 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:38:32,801 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:38:33,305 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:38:33,306 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:42:45,507 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:42:52,791 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:42:52,791 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:49:05,723 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:49:05,723 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:49:06,487 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:49:06,488 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:49:07,265 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:49:07,265 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:55:16,451 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:55:16,452 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:55:30,697 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:55:30,698 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:57:21,213 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:57:21,213 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
+2026-11-23 19:57:44,324 - ClientDiscoveryLogger - INFO - Отправлен DISCOVER на порт 12345
+2026-11-23 19:57:44,324 - ClientDiscoveryLogger - INFO - Найден сервер: 127.0.0.1 ( Вычисление суммы и наименьшего делителя + чат)
